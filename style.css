@@ -1,0 +1,52 @@
+h2 {
+    font-size: 3em;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+background-color: rgba(238, 130, 238, 0.774);
+}
+h1{
+    color:rgb(12, 131, 12);
+    font-size: 5em;
+    text-align:center
+}
+nav{
+    font-size: 1.5em;
+    color:aqua;
+    text-align: center;
+}
+p{
+    font-size: 1.2em
+}
+ul{
+    font-size: 1.2em;
+}
+span{
+    font-weight: 700;
+}
+.pine{
+    text-decoration: underline;
+}
+
+
+header{
+    background-color: rgba(39, 22, 190, 0.61);
+}
+a:link{
+color:blue;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+color:white;
+}
+footer{
+    text-align: center;
+}
+.apple{
+    font-size: 30px;
+}
